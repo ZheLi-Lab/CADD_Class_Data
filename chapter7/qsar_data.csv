@@ -1,0 +1,18 @@
+Smiles,IC50 (nM),pIC50
+O=C1c2cccc3cccc(c23)C(=O)N1CCc1nc2cc(F)ccc2n1C1CCOCC1,287,6.54
+Cc1cnc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2-c1ccncc1,23,7.64
+COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,1600,5.8
+O=C1c2cccc3cccc(c23)C(=O)N1CCc1ccc2ccccc2n1,20,7.7
+Cn1cc(-c2ccncc2)c(-c2ccc(OCc3ccc4ccccc4n3)cc2)n1,0.37,9.43
+Cc1ccc2[nH]c(CCN3C(=O)c4cccc5cccc(c45)C3=O)nc2c1,2.1,8.68
+COC1=CN(c2ccc(-n3cccn3)cc2F)N=C(c2ccnn2-c2ccccc2)C1O,0.3,9.52
+O=C1c2cccc3cccc(c23)C(=O)N1CCCSc1nc2ccccc2[nH]1,182,6.74
+Cc1ccc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2-c1ccncc1,4700,5.33
+Cc1cnc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2-c1ccccc1,1,9
+COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC,287,6.54
+Cc1ccc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2-c1ccccc1,0.76,9.12
+O=C1c2cccc3cccc(c23)C(=O)N1CCc1n[nH]c(=S)n1-c1ccccc1,68,7.17
+O=C1c2cccc3cccc(c23)C(=O)N1CCc1nc(-c2ccccc2)c[nH]1,10,8
+Cc1ccc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2C1CCOCC1,12,7.92
+Cc1cc(C)n2cc(CSc3nc(-c4ccccc4)cc(C(F)(F)F)n3)nc2n1,39,7.41
+Cc1ccc2c(c1)nc(CCN1C(=O)c3cccc4cccc(c34)C1=O)n2-c1ccncc1,0.44,9.36
